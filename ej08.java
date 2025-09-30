@@ -1,9 +1,15 @@
 public class ej08 {
     public static void main(String[] args) {
-      int edad = 22;
-      double dinero = 2.22;
-      char miLetra = 'A';
-      boolean correcto = true;
+      int edad;
+      edad = 22;
+      double dinero;
+      dinero = 22.22;
+      char miLetra;
+      miLetra ='A';
+      
+      boolean correcto;
+      correcto = true;
+      
       System.out.println(edad);
       System.out.println(dinero);
       System.out.println(miLetra);
