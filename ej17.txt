@@ -1,0 +1,6 @@
+Es importante elegir el tipo de dato adecuado porque cada tipo tiene un rango y tamaño específico.
+Si usamos un tipo demasiado pequeño para el valor esperado, podemos provocar un desbordamiento
+(overflow) y obtener resultados incorrectos. Por otro lado, usar un tipo demasiado grande puede
+consumir más memoria de la necesaria. Elegir correctamente ayuda a evitar errores y optimizar el
+uso de recursos.
+
